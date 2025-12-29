@@ -6,3 +6,7 @@ groq
 pydantic
 python-docx
 PyMuPDF
+nltk
+spacy
+tiktoken
+langchain_groq
