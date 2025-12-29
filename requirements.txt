@@ -1,7 +1,8 @@
+streamlit
 langchain
-langchain-community
-pypdf
+langchain-core
+langchain-groq
+groq
+pydantic
 python-docx
-nltk
-spacy
-tiktoken
+PyMuPDF

@@ -1,4 +1,5 @@
-from langchain_groq import ChatGroq
+from langchain_groq.chat_models import ChatGroq
+
 
 
 def load_llm(
