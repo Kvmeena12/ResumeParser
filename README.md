@@ -1,7 +1,5 @@
 # ResumeParser — Job-focused Resume Analyzer
 
-Live demo: [job-based-resume.streamlit.app](https://job-based-resume.streamlit.app/)  
-Repository: [Kvmeena12/ResumeParser](https://github.com/Kvmeena12/ResumeParser)
 
 A simple Streamlit app that parses resumes (PDF/DOCX/TXT), compares them to a job description, and produces role-fit scores, highlights, and suggested resume bullet rewrites for applicants and recruiters.
 
