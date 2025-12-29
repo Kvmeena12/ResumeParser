@@ -1,0 +1,7 @@
+langchain
+langchain-community
+pypdf
+python-docx
+nltk
+spacy
+tiktoken
