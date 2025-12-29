@@ -6,7 +6,8 @@ A simple Streamlit app that parses resumes (PDF/DOCX/TXT), compares them to a jo
 ---
 
 ## Quick links
-- Live demo: [job-based-resume.streamlit.app](https://job-based-resume.streamlit.app/)
+- Live demo: [job-based-resume.streamlit.app](https://role-based-resume.streamlit.app/)
+
 - Repo: [github.com/Kvmeena12/ResumeParser](https://github.com/Kvmeena12/ResumeParser)
 
 ---
