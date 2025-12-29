@@ -9,3 +9,4 @@ groq>=0.4.0
 python-docx
 PyMuPDF
 docx2txt
+pypdf
